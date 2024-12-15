@@ -3,7 +3,7 @@
 >Angelehnt an https://github.com/DigitalGeographyLab/travel-time-matrix-computer/tree/main/src/travel_time_matrix_computer
 
 ## Inhalt:
-* Python-basierte Analyse zum erstellen von TravelTimeMatrizen mit r5py (https://r5py.readthedocs.io/en/stable/reference/reference.html) inklusive Workflow zum Vorbereiten der GTFS-OSM und bei Bedarf Zensus-Daten.
+* Python-basierte Berechnung von TravelTimeMatrizen mit r5py (https://r5py.readthedocs.io/en/stable/reference/reference.html) inklusive Workflow zum Vorbereiten der GTFS-OSM und bei Bedarf Zensus-Daten.
 * Die Ziele der Analyse können variabel angepasst werden
 * Das Filtern der Netzwerkdaten optimiert die Laufzeit, sodass auch ein Desktop-Computer Analysen für eine große Region in Deutschland rechnen kann.
 
